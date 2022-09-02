@@ -1,0 +1,118 @@
+.container{
+
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 293px;
+    box-shadow: 0px 0px 37px -3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px ;
+    margin-top: 50px;
+    font-family: Helvetica, Sans-Serif;
+
+}
+
+.userfullname{
+font-size:22px;
+margin-left: 15px;
+margin-top: 10px;
+margin-bottom: 5px;
+}
+
+.userlocation{
+    font-size:12px;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    }
+
+.userdistance{
+    font-size:12px;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    }
+
+.logoicon{
+    width: 42px;
+    height: 42px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.userinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 238px;
+    height: 396px;
+    border-radius: 24px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-size: 240px;
+    color: white;
+}
+
+.button1{
+    color: rgb(0, 211, 135);
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: none;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.button2{
+    color: rgb(255, 78, 64);
+    background-color: #ffffff;
+    border-radius: 50%;
+    border: none;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+
+}
+
+.likesinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.likebutton{
+    font-size: 13px;
+    margin-bottom: 20px;
+    color: rgb(0, 211, 135);
+    margin-top: 0px;
+}
+
+.dislikebutton{
+    font-size: 13px;
+    margin-bottom: 20px;
+    color: rgb(255, 78, 64);
+    margin-top: 0px;
+    
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 100px;
+    align-items: center;
+}
+
+
+
+
+
